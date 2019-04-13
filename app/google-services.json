@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "953881196208",
+    "firebase_url": "https://notifire-9c622.firebaseio.com",
+    "project_id": "notifire-9c622",
+    "storage_bucket": "notifire-9c622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953881196208:android:96d6ab99ebd78ad2",
+        "android_client_info": {
+          "package_name": "com.example.notifire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGifUqrwhcz6svD_9MLf4_I7kbXgRv08E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953881196208-6f965qfi9l2jvm643s6cavrm5sofb1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953881196208:android:944a37712c7b8824",
+        "android_client_info": {
+          "package_name": "com.example.notifireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953881196208-rm1ckosluci2fj81qkfrsspqjpje7qo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifireapp",
+            "certificate_hash": "4cc51187e4cd5df3485f0d2ddc7b4ced6dcc372b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGifUqrwhcz6svD_9MLf4_I7kbXgRv08E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953881196208-6f965qfi9l2jvm643s6cavrm5sofb1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
